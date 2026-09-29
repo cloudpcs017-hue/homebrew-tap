@@ -3,8 +3,7 @@
 Homebrew formulas for JTorrent binary releases.
 
 ```sh
-brew tap cloudpcs017-hue/tap
-brew install jtorrent
+brew install OxJacky/tap/jtorrent
 ```
 
 Update with `brew update && brew upgrade jtorrent`. The tap distributes
