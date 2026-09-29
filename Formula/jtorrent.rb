@@ -1,7 +1,6 @@
 class Jtorrent < Formula
   desc "Download torrents through the JTorrent cloud from your terminal"
   homepage "https://github.com/cloudpcs017-hue/jtorrent-cli"
-  version "0.1.1"
 
   on_macos do
     if Hardware::CPU.arm?
